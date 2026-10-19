@@ -1,0 +1,5 @@
+# Cyrene Store catalog
+# Format: id|name|version|title_id|url|description
+# Each line = one app. Comment lines start with #. Do not use | in descriptions.
+
+m3u8-player|M3U8 Player|01.00|MUPY00001|https://github.com/SpaceAceIL/cyrene-store/releases/download/v01.00-m3u8/IV0000-MUPY00001_00-M3U8PS4PLAYER001.pkg|HLS live TV player for PS4

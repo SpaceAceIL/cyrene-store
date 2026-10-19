@@ -1,0 +1,7 @@
+build-ps4/
+*.o
+*.elf
+*.oelf
+*.pkg
+__pycache__/
+*.pyc
